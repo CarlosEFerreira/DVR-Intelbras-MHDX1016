@@ -4,6 +4,7 @@ Monitoramento das câmeras do DVR Intelbras MHDX 1016 e MHDX1116
 <p>A dashboard foi baseada em : https://grafana.com/grafana/dashboards/10689</p>
 <p>Testado na versão 4.4 Zabbix e 6.5.1 Grafana</p>
 <p>Requisito: SNMP V2 ativo no DVR</p>
+<p>Obs: Existe o template sem trigger e com trigger severidade média</p>
 <p>1º Edite o grupo "DVR", para o nome do seu grupo no template xml</p>
 <p>2º Edite o host "DVR Nome", para o nome do seu host no template xml</p>
 <p>3º Edite o IP e portas para seu equipamento no template xml</p>
