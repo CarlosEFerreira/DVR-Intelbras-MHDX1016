@@ -1,4 +1,4 @@
-Monitoramento DVR Intelbras MHDX 1016
+Monitoramento das câmeras do DVR Intelbras MHDX 1016
 
 <p>O template foi baseado em : https://github.com/GeorgeHPD/Monitoramento-DVR-Intelbras-Zabbix</p>
 <p>A dashboard foi baseada em : https://grafana.com/grafana/dashboards/10689</p>
