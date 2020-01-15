@@ -9,8 +9,8 @@ Monitoramento DVR Intelbras MHDX 1016
 <p>4º Importe o template em HOST no Zabbix</p>
 <p>5º Verifique a comunicação do SNMP e a coleta dos itens</p>
 <p>6º Se estiver comunicando e coletando, importe o arquivo da Dashboard no Grafana</p>
-<p>7º Edite os campos </p>
+<p>7º Edite os campos de acordo com sua configuração no template/zabbix</p>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/42806550/72466164-1d662e00-37b7-11ea-88b1-829778a2df0d.png">
 </p>
-
+Aprecie!
