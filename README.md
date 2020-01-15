@@ -10,4 +10,4 @@ Monitoramento DVR Intelbras MHDX 1016
 <p>5º Verifique a comunicação do SNMP e a coleta dos itens</p>
 <p>6º Se estiver comunicando e coletando, importe o arquivo da Dashboard no Grafana</p>
 <p>7º Edite os campos </p>
-https://user-images.githubusercontent.com/42806550/72465735-75506500-37b6-11ea-872e-f28672480c75.png
+![config_dashboard](https://user-images.githubusercontent.com/42806550/72466164-1d662e00-37b7-11ea-88b1-829778a2df0d.png)
